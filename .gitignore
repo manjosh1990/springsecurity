@@ -1,0 +1,7 @@
+
+spring-security-demo/.idea/compiler.xml
+spring-security-demo/.idea/encodings.xml
+spring-security-demo/.idea/jarRepositories.xml
+spring-security-demo/.idea/misc.xml
+*/.idea/*
+*/.vscode/*
